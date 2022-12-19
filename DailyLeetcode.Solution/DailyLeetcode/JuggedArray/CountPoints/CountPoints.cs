@@ -1,7 +1,7 @@
 ﻿namespace DailyLeetcode.JuggedArray.CountPoints;
 public class CountPoints
 {
-    private static int[] CountPoints(int[][] points, int[][] queries)
+    private static int[] CountPointss(int[][] points, int[][] queries)
     {
         List<int> result = new List<int>();
 

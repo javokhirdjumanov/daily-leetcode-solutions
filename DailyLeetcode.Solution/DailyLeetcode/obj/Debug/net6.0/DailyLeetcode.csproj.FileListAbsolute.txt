@@ -1,0 +1,5 @@
+C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.csproj.CoreCompileInputs.cache

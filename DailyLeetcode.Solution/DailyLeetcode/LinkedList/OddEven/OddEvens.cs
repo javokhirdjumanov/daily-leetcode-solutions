@@ -1,5 +1,16 @@
 ﻿
 namespace DailyLeetcode.LinkedList.OddEven;
+public class ListNode
+{
+    public ListNode(ListNode next = null, int value = 0)
+    {
+        this.value = value;
+        this.next = next;
+    }
+
+    public int value { get; set; }
+    public ListNode next{ get; set; }
+}
 public class OddEvens
 {
     public static ListNode OddEvenList(ListNode head)
