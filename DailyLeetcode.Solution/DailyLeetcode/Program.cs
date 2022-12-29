@@ -6,4 +6,3 @@ public class Program
         Console.WriteLine("Daily Leet Code");
     }
 }
-
