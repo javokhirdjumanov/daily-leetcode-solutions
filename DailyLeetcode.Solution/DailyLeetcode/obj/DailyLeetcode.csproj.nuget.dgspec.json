@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\Desktop\\me\\DotNet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {}
+    "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\Desktop\\me\\DotNet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {
+    "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\me\\DotNet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
         "projectName": "DailyLeetcode",
-        "projectPath": "C:\\Users\\Windows 10\\Desktop\\me\\DotNet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+        "projectPath": "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Desktop\\me\\DotNet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
