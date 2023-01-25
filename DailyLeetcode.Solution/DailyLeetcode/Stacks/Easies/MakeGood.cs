@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace DailyLeetcode.Stacks;
+namespace DailyLeetcode.Stacks.Easies;
 public class MakeGood
 {
     public static string MakeGoodss(string s)

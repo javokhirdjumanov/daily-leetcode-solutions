@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace DailyLeetcode.Stacks;
+namespace DailyLeetcode.Stacks.Easies;
 public class RemoveDuplicates
 {
     public static string RemoveDuplicatess(string s)

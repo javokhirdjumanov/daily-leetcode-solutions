@@ -1,4 +1,4 @@
-﻿namespace DailyLeetcode.Stacks;
+﻿namespace DailyLeetcode.Stacks.Easies;
 public class MaxDepth
 {
     public static int MaxDepths(string s)

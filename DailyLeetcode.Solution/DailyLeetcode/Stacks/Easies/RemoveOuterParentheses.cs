@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace DailyLeetcode.Stacks;
+namespace DailyLeetcode.Stacks.Easies;
 public class RemoveOuterParentheses
 {
     public static string RemoveOuterParenthesess(string s)
