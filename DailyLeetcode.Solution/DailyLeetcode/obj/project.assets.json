@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Windows 10\\.nuget\\packages\\": {},
+    "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+      "projectUniqueName": "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
       "projectName": "DailyLeetcode",
-      "projectPath": "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
-      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Desktop\\me\\Dotnet\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
+      "projectPath": "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+      "packagesPath": "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\",
+      "outputPath": "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Javokhir Djumanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
