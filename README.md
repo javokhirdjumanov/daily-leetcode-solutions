@@ -8,16 +8,16 @@ To use this repository, you can clone or download the code to your local machine
 If you would like to contribute to this repository, we welcome your contributions! To contribute, simply fork the repository, make your changes, and submit a pull request. Please be sure to follow the existing formatting and naming conventions when submitting your changes.
 
 ## Useful Links
-The official Leetcode website, where you can find thousands of coding problems to practice and improve your skills.
+The official Leetcode website, where you can find thousands of coding problems to practice and improve your skills.<br>
 Link: https://leetcode.com
 
-A forum for Leetcode users to ask questions, share solutions, and connect with other developers.
+A forum for Leetcode users to ask questions, share solutions, and connect with other developers.<br>
 Link: https://leetcode.com/discuss
 
-A tool that allows you to visualize the execution of Leetcode problems step by step, helping you understand the algorithms and data structures used in each solution.
+A tool that allows you to visualize the execution of Leetcode problems step by step, helping you understand the algorithms and data structures used in each solution.<br>
 Link: https://leetcode.com/explore
 
-A comprehensive guide to the patterns and techniques commonly used in Leetcode problems.  
+A comprehensive guide to the patterns and techniques commonly used in Leetcode problems. <br> 
 Link: https://leetcode.com/problemset/all
 
 Topcoder Algorithm Tutorials: A collection of algorithm tutorials that cover a wide range of topics, from basic data structures to advanced graph algorithms.
