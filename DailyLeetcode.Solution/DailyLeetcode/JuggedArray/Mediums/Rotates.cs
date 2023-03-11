@@ -22,4 +22,4 @@ internal class Rotates
     }
 }
 
-// Link: <b>https://leetcode.com/problems/rotate-image/<b>
+// Link: https://leetcode.com/problems/rotate-image/
