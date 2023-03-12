@@ -21,5 +21,4 @@ internal class Rotates
                 matrix[i][j] = result[i][j];
     }
 }
-
 // Link: https://leetcode.com/problems/rotate-image/
