@@ -1,6 +1,19 @@
 ﻿namespace DailyLeetcode.LinkedList.Easies;
+
 public class DeleteDuplicates
 {
+    class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int val = 0, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
+        }
+        public ListNode()
+        { }
+    }
     private static void MainView()
     {
         Console.Write("List Limit Number : ");
@@ -72,15 +85,5 @@ public class DeleteDuplicates
             Console.WriteLine(result.val);
             result = result.next;
         }
-    }
-}
-public class ListNode
-{
-    public int val;
-    public ListNode next;
-    public ListNode(int val = 0, ListNode next = null)
-    {
-        this.val = val;
-        this.next = next;
     }
 }
