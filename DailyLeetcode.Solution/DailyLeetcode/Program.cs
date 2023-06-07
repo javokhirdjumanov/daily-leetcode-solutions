@@ -3,6 +3,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Daily Leet Code");
+        Console.WriteLine("Daily Leetcode Solutions :)");
     }
 }
