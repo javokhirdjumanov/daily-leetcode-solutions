@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {}
+    "D:\\..me\\.net\\GitHub\\DailyLeetcode.solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {}
   },
   "projects": {
-    "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {
+    "D:\\..me\\.net\\GitHub\\DailyLeetcode.solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+        "projectUniqueName": "D:\\..me\\.net\\GitHub\\DailyLeetcode.solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
         "projectName": "DailyLeetcode",
-        "projectPath": "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+        "projectPath": "D:\\..me\\.net\\GitHub\\DailyLeetcode.solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
         "packagesPath": "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\",
-        "outputPath": "D:\\..me\\.net\\GitHub\\DailyLeetcode\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
+        "outputPath": "D:\\..me\\.net\\GitHub\\DailyLeetcode.solutions\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.webase.uz/api": {}
         },
         "frameworks": {
           "net6.0": {
