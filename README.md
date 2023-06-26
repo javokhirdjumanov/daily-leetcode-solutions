@@ -1,4 +1,4 @@
-# Daily Leetcode 
+## Daily Leetcode 
 Welcome to the Daily Leetcode Repository! This repository contains a collection of solutions to Leetcode problems that are worked on and added every day. The purpose of this repository is to provide a resource for developers to learn and practice problem-solving skills.
 
 ## Getting Started
