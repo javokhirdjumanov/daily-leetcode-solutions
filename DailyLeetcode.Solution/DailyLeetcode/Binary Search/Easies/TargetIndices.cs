@@ -10,9 +10,7 @@ public sealed class TargetIndices
         for (int i = 0; i < nums.Length; i++)
         {
             if (nums[i] == target)
-            {
                 result.Add(i);
-            }
         }
 
         return result;

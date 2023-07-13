@@ -12,6 +12,7 @@ public sealed class MaximumCount
             else if (nums[i] > 0)
                 pos++;
         }
+
         int max = Math.Max(pos, neg);
 
         return max;
