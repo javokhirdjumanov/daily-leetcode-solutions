@@ -13,6 +13,7 @@ public sealed class DifferenceOfSum
 
         return summa;
     }
+
     private static int FragmentationNumber(int number)
     {
         int summa = 0;
