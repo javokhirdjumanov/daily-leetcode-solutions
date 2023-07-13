@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Bit_Manipulation.Easies;
-internal class XorOperation
+public sealed class XorOperation
 {
     public static int XorOperations(int n, int start)
     {

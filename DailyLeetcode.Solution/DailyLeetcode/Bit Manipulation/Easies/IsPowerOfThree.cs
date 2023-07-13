@@ -13,8 +13,8 @@ public sealed class IsPowerOfThree
 
             n /= 3;
         }
-        if (check == 0)
-            return true;
+
+        if (check == 0) return true;
 
         return false;
     }

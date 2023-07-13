@@ -13,8 +13,7 @@ public sealed class IsPowerOfTwo
 
             n /= 2;
         }
-        if (check == 0)
-            return true;
+        if (check == 0) return true;
 
         return false;
     }

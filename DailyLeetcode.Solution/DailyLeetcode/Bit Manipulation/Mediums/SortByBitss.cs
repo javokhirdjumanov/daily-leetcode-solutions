@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Bit_Manipulation.Mediums;
-internal class SortByBitss
+public sealed class SortByBitss
 {
     public static int[] SortByBits(int[] arr)
     {
@@ -11,7 +11,8 @@ internal class SortByBitss
 
             int sumOfDigitsOfNumber = @bytes.ToString()
                 .Select(digit => int.Parse(digit.ToString()))
-                .ToArray().Sum();
+                .ToArray()
+                .Sum();
 
             if (!dict.ContainsKey(sumOfDigitsOfNumber))
                 dict[sumOfDigitsOfNumber] = new List<int>();

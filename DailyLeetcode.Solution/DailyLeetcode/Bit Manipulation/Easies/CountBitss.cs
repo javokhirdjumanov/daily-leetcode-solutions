@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Bit_Manipulation.Easies;
-internal class CountBitss
+public sealed class CountBitss
 {
     public static int[] CountBits(int n)
     {

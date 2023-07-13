@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Bit_Manipulation.Easies;
-internal class FindComplements
+public sealed class FindComplements
 {
     public static int FindComplement(int num)
     {
