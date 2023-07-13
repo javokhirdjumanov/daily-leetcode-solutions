@@ -1,6 +1,6 @@
 ﻿using System.Text;
 namespace DailyLeetcode.Arrays.Easies;
-internal class GenerateTheStrings
+public sealed class GenerateTheStrings
 {
     public static string GenerateTheString(int n)
     {
