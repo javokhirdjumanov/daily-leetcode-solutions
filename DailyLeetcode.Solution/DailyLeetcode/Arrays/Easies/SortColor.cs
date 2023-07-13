@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-public class SortColor
+public sealed class SortColor
 {
     public static string SortColors(int[] nums)
     {

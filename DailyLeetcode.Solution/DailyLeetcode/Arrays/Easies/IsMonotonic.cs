@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-internal class IsMonotonic
+public sealed class IsMonotonic
 {
     public static bool IsMonotonics(int[] nums)
     {

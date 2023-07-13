@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-public class Intersection
+public sealed class Intersection
 {
     public static int[] Intersections(int[] nums1, int[] nums2)
     {

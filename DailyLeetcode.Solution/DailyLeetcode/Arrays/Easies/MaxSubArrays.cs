@@ -1,6 +1,6 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
 
-public class MaxSubArrays
+public sealed class MaxSubArrays
 {
     public static int MaxSubArray(int[] nums)
     {

@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-public class SortPeople
+public sealed class SortPeople
 {
     public string[] SortPeoples(string[] names, int[] heights)
     {

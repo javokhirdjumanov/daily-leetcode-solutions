@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-public class MaxProfits
+public sealed class MaxProfits
 {
     public static int MaxProfit(int[] prices)
     {

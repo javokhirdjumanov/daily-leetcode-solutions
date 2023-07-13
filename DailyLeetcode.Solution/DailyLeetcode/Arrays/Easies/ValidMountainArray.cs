@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-internal class ValidMountainArray
+public sealed class ValidMountainArray
 {
     public static bool ValidMountainArrays(int[] arr)
     {

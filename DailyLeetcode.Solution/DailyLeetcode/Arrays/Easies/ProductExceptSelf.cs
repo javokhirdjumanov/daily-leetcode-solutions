@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-public class ProductExceptSelf
+public sealed class ProductExceptSelf
 {
     public static int[] ProductExceptSelfs(int[] nums)
     {
