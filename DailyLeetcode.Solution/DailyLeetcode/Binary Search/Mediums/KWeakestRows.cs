@@ -7,11 +7,7 @@ public sealed class KWeakestRows
 
         var result = FillTheSortedArray(mat);
 
-        return Result(
-            result: result, 
-            dictionary: dictionary, 
-            k: k
-            );
+        return Result(result, dictionary, k);
     }
     private static Dictionary<int, int> FillTheDictionary(int[][] mat)
     {
@@ -27,6 +23,7 @@ public sealed class KWeakestRows
                     dictionary[i]++;
             }
         }
+
         return dictionary;
     }
     private static int[] FillTheSortedArray(int[][] mat)
@@ -53,6 +50,7 @@ public sealed class KWeakestRows
                 }
             }
         }
+
         return result[0..k];
     }
 }
