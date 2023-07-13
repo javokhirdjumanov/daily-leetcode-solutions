@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-internal class FindTheDistanceValues
+public sealed class FindTheDistanceValues
 {
     public static int FindTheDistanceValue(int[] arr1, int[] arr2, int d)
     {
