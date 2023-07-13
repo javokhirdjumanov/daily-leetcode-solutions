@@ -12,6 +12,7 @@ public sealed class FindKthPositive
             if (!set.Contains(i + 1))
                 list.Add(i + 1);
         }
+
         return list[k - 1];
     }
     private HashSet<int> FillTheHashSet(int[] arr)
