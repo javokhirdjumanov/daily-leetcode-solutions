@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-internal class FindLuckys
+public sealed class FindLuckys
 {
     public static int FindLucky(int[] arr)
     {
