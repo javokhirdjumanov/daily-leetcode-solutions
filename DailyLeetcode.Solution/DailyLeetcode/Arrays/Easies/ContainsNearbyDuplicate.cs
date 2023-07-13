@@ -1,5 +1,5 @@
 ﻿namespace DailyLeetcode.Arrays.Easies;
-internal class ContainsNearbyDuplicate
+public sealed class ContainsNearbyDuplicate
 {
     public static bool ContainsNearbyDuplicates(int[] nums, int k)
     {
