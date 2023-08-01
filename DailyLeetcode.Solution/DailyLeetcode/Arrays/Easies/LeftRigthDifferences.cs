@@ -18,26 +18,25 @@ public sealed class LeftRigthDifferences
         }
         return result.ToArray();
 
-
         // 2 solution
-        int[] rightSumma = new int[nums.Length];
-        int[] leftSumma = new int[nums.Length];
+        // int[] rightSumma = new int[nums.Length];
+        // int[] leftSumma = new int[nums.Length];
 
-        int index = 0; leftSumma[0] = 0;
-        while (index < nums.Length - 1)
-        {
-            leftSumma[index + 1] = leftSumma[index] + nums[index];
-            index++;
-        }
+        // int index = 0; leftSumma[0] = 0;
+        // while (index < nums.Length - 1)
+        // {
+        //     leftSumma[index + 1] = leftSumma[index] + nums[index];
+        //     index++;
+        // }
 
-        index = nums.Length - 1; rightSumma[rightSumma.Length - 1] = 0;
-        while (index > 0)
-        {
-            rightSumma[index - 1] = rightSumma[index] + nums[index];
-            index--;
-        }
-        for (int i = 0; i < rightSumma.Length; i++)
-            rightSumma[i] = Math.Abs(leftSumma[i] - rightSumma[i]);
-        return rightSumma;
+        // index = nums.Length - 1; rightSumma[rightSumma.Length - 1] = 0;
+        // while (index > 0)
+        // {
+        //     rightSumma[index - 1] = rightSumma[index] + nums[index];
+        //     index--;
+        // }
+        // for (int i = 0; i < rightSumma.Length; i++)
+        //     rightSumma[i] = Math.Abs(leftSumma[i] - rightSumma[i]);
+        // return rightSumma;
     }
 }
