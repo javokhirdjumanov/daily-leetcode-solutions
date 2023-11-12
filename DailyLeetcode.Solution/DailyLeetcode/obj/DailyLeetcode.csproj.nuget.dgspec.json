@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\..me\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {}
+    "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {}
   },
   "projects": {
-    "D:\\..me\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {
+    "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\..me\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+        "projectUniqueName": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
         "projectName": "DailyLeetcode",
-        "projectPath": "D:\\..me\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+        "projectPath": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
         "packagesPath": "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\",
-        "outputPath": "D:\\..me\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
+        "outputPath": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Javokhir Djumanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
         }
       }
     }

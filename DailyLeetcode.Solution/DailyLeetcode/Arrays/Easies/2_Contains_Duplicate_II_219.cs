@@ -21,7 +21,6 @@ public sealed class ContainsNearbyDuplicates
                 right = left + 1;
             }
         }
-         
 
         return false;
     }

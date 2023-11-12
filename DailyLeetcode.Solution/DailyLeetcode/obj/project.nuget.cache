@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zzAVqDB5ze2M2ViSAT/puMWapfAVx10Sksg1DBoif0f0yIumYqJr3yuK2ZKXtIoNByT4f64ky3yi9VWfSM9Bg==",
+  "dgSpecHash": "I9yf4e2uORE+aCK3c+VMJpATtb/sbA5djAvkNBzjjLtDDGU2q7KfFNbStMyDMdzAr+aFKDIT1bK0ifTQamX9tQ==",
   "success": true,
-  "projectFilePath": "D:\\..me\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+  "projectFilePath": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
