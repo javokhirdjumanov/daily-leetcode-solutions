@@ -3510,19 +3510,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+      "projectUniqueName": "D:\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
       "projectName": "DailyLeetcode",
-      "projectPath": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
-      "packagesPath": "C:\\Users\\Javokhir Djumanov\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
+      "projectPath": "D:\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\DailyLeetcode.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\my.projects\\daily-leetcode-solutions\\DailyLeetcode.Solution\\DailyLeetcode\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Javokhir Djumanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3530,8 +3535,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.webase.uz/api": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "http://nuget.webase.uz/api": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -3580,7 +3586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

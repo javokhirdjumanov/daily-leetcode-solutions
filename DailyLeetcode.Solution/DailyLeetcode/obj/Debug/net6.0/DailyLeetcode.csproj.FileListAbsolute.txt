@@ -3,3 +3,9 @@ C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\
 C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.AssemblyInfoInputs.cache
 C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.AssemblyInfo.cs
 C:\Users\Windows 10\Desktop\me\DotNet Course\GitHub\DailyLeetcode\DailyLeetcode\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.csproj.CoreCompileInputs.cache
+D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.csproj.AssemblyReference.cache
+D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.AssemblyInfoInputs.cache
+D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.AssemblyInfo.cs
+D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.csproj.CoreCompileInputs.cache
+D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\obj\Debug\net6.0\DailyLeetcode.sourcelink.json
