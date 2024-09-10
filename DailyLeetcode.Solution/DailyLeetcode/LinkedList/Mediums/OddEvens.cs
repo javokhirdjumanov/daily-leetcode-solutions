@@ -1,15 +1,4 @@
 ﻿namespace DailyLeetcode.LinkedList.Mediums;
-public class ListNode
-{
-    public ListNode(ListNode next = null, int value = 0)
-    {
-        this.value = value;
-        this.next = next;
-    }
-
-    public int value { get; set; }
-    public ListNode next { get; set; }
-}
 public class OddEvens
 {
     public static ListNode OddEvenList(ListNode head)
@@ -55,7 +44,7 @@ public class OddEvens
 
         while (queue.Count > 0)
         {
-            node.next = new ListNode(queue.Dequeue().value);
+            node.next = new ListNode(queue.Dequeue().val);
             node = node.next;
         }
 

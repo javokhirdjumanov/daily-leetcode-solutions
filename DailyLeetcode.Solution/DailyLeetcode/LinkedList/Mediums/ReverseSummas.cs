@@ -20,7 +20,7 @@ class Program
 
         while (newlist.next != null)
         {
-            Console.Write(newlist.next.value + " ");
+            Console.Write(newlist.next.val + " ");
 
             newlist = newlist.next;
         }
@@ -39,7 +39,7 @@ class Program
         Console.Write("Linked List One : ");
         while (listOfChars.next != null)
         {
-            Console.Write(listOfChars.next.value + " ");
+            Console.Write(listOfChars.next.val + " ");
             listOfChars = listOfChars.next;
         }
         Console.WriteLine();
@@ -60,7 +60,7 @@ class Program
 
         while (listOfChars.next != null)
         {
-            Console.Write(listOfChars.next.value + " ");
+            Console.Write(listOfChars.next.val + " ");
             listOfChars = listOfChars.next;
         }
 
@@ -76,12 +76,12 @@ class Program
 
         while (node1 != null)
         {
-            sb1.Append(node1.value.ToString());
+            sb1.Append(node1.val.ToString());
             node1 = node1.next;
         }
         while (node2 != null)
         {
-            sb2.Append(node2.value.ToString());
+            sb2.Append(node2.val.ToString());
             node2 = node2.next;
         }
         int SumLeft = int.Parse(sb1.ToString()) + int.Parse(sb2.ToString());
@@ -101,15 +101,5 @@ class Program
         }
 
         return newlist;
-    }
-}
-public class ListNode
-{
-    public ListNode next;
-    public int value;
-    public ListNode(int value = 0, ListNode next = null)
-    {
-        this.next = next;
-        this.value = value;
     }
 }

@@ -39,17 +39,17 @@ public class PalindromOftheLinkedList
 
             while (halp > 0)
             {
-                stack.Push(temp.value);
+                stack.Push(temp.val);
                 temp = temp.next;
                 halp--;
             }
 
             if (counter % 2 == 1)
-                stack.Push(temp.value);
+                stack.Push(temp.val);
 
             while (temp != null)
             {
-                if (stack.Pop() != temp.value)
+                if (stack.Pop() != temp.val)
                     return false;
                 else
                     temp = temp.next;
@@ -57,16 +57,5 @@ public class PalindromOftheLinkedList
 
             return true;
         }
-    }
-}
-public class ListNode
-{
-    public ListNode next;
-    public int value;
-
-    public ListNode(int value = 0, ListNode next = null)
-    {
-        this.next = next;
-        this.value = value;
     }
 }

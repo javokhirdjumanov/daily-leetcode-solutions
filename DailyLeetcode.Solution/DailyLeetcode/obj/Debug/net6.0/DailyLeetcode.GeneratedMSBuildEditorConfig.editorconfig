@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DailyLeetcode
-build_property.ProjectDir = D:\my.projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\
+build_property.ProjectDir = D:\Javohir\other projects\daily-leetcode-solutions\DailyLeetcode.Solution\DailyLeetcode\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
